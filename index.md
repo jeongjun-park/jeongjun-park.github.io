@@ -86,7 +86,7 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6-9, 2017.
 
 * Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi,  
 "Method, apparatus and computer readable record media for sharing radio resource on unlicensed band,"   
-Korean Patent 10-1865390, May 2018.  
+**Korean Patent 10-1865390**, May 2018.  
 
 * Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seunghoon Park, Jungsoo Jung, Jaehong Yi, Kangjin Yoon, and **Sunwook Hwang**,  
 “Apparatus and method for operating a plurality of carriers in wireless communication system,”  
