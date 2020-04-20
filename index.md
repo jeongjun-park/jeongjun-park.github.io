@@ -1,5 +1,5 @@
 
-# [About Me](index) | [CV](CV_swhwang_200326.pdf)
+# [About Me](index) | [CV](CV_swhwang_200420.pdf)
 ---  
 ## Profile
 ### Ph.D. Candidate  
@@ -70,6 +70,10 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6-9, 2017.
 ## Intellectual Properties
 
 ### - Patent Intellectual Properties
+* Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi,  
+“Method, apparatus and computer readable record media for collision-aware link adaptation through clustering,”  
+**Korean Patent 10-2099376**, Apr. 2020.
+
 * **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, and Sunghyun Choi,   
 "Method and apparatus for communication between vehicles and apparatus for using the same,"   
 **Korean Patent 10-1975759**, Apr. 2019.  
@@ -83,10 +87,6 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6-9, 2017.
 * Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi,  
 "Method, apparatus and computer readable record media for sharing radio resource on unlicensed band,"   
 Korean Patent 10-1865390, May 2018.  
-
-* Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi,  
-“Method, apparatus and computer readable record media for collision-aware link adaptation through clustering,”  
-Korean Patents Application 10-2018-0018143, filed Feb. 2018, Patent Pending.  
 
 * Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seunghoon Park, Jungsoo Jung, Jaehong Yi, Kangjin Yoon, and **Sunwook Hwang**,  
 “Apparatus and method for operating a plurality of carriers in wireless communication system,”  
