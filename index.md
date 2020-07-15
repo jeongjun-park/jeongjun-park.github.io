@@ -1,7 +1,8 @@
 
 # [About Me](index) | [CV](CV_swhwang_200420.pdf)
 ---  
-## <ins>Profile</ins>
+## Profile
+---  
 ### Ph.D. Candidate  
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)  
 Department of Electrical and Computer Engineering (ECE)  
@@ -11,7 +12,7 @@ E-mail: **swhwang@netlab.snu.ac.kr, sunwookh@snu.ac.kr**
 Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)  
 
 ## Education
-
+---  
 #### - Unified Course of M.S. and Ph. D. in ECE from SNU, Mar. 2016 to present  
 * Advisor: [Professor Saewoong Bahk](https://sites.google.com/site/netlabhome/people/faculty/)  
 (Changed from [Sunghyun Choi](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/sunghyun-choi) who was a professor at SNU until August of 2019 and is currently a Senior Vice President and Head of Advanced Communications Research Center
@@ -22,8 +23,9 @@ at Samsung Research)
 #### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
 
 ## Current Collaborators
-##### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
-##### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
+---  
+#### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
+#### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
 
 ## Research Interest
 - Protocol design for V2X communications and 5G New Radio (NR):
