@@ -2,7 +2,7 @@
 # [About Me](index) | [CV](CV_swhwang_200420.pdf)
 ---  
 ## Profile
----  
+
 ### Ph.D. Candidate  
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)  
 Department of Electrical and Computer Engineering (ECE)  
@@ -10,9 +10,9 @@ Seoul National University (SNU)
 E-mail: **swhwang@netlab.snu.ac.kr, sunwookh@snu.ac.kr**  
 (You can use either email address to reach me.)  
 Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)  
-
-## Education
 ---  
+## Education
+
 #### - Unified Course of M.S. and Ph. D. in ECE from SNU, Mar. 2016 to present  
 * Advisor: [Professor Saewoong Bahk](https://sites.google.com/site/netlabhome/people/faculty/)  
 (Changed from [Sunghyun Choi](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/sunghyun-choi) who was a professor at SNU until August of 2019 and is currently a Senior Vice President and Head of Advanced Communications Research Center
@@ -21,19 +21,19 @@ at Samsung Research)
 * Area of Research: Network Systems & Wireless Communications
 
 #### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
-
-## Current Collaborators
 ---  
+## Current Collaborators
+
 #### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
 #### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
-
+---  
 ## Research Interest
 - Protocol design for V2X communications and 5G New Radio (NR):
   - 3GPP LTE and 5G NR standard for V2X communication systems, DSRC protocol design
 - Coexistence for IEEE 802.11 WLAN and LTE in unlicensed spectrum:
   - Airtime fairness, channelization, clear channel assessment, hidden node problem
   
-  
+---   
 ## Research Projects
 
 * 5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion,  
@@ -47,7 +47,7 @@ at Samsung Research)
 
 * Electronics and Telecommunications Research Institute (ETRI),  
 **“Development of Core Technologies for Small-cell Coexistence,”** 2016–2017. 
-
+---  
 ## Publications
 
 ### - International Journal Papers
@@ -72,7 +72,7 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6-9, 2017.
 
 3. 황선욱, 윤강진, 박태준, 김지훈, 최성현, "LTE-LAA 다중채널 접속기법의 성능향상 방법," 한국통신학회 2017년도 동계종합학술발표회, 강원 정선, 2017년 1월 20일.
 -->
-
+---  
 ## Intellectual Properties
 
 ### - Patent Intellectual Properties
@@ -107,7 +107,7 @@ Korea Copyright Commission C-2017-024231, Oct. 2017.
 "WLAN Saturation Detection Algorithm,"  
 Korea Copyright Commission C-2017-000564, Jan. 2017.  
 
-
+---  
 ## Professional Activities
 
 #### Reviewer
@@ -117,7 +117,7 @@ Korea Copyright Commission C-2017-000564, Jan. 2017.
   * IEEE Wireless Communications and Networking Conference (WCNC) 2020
   * IEEE Wireless Communications and Networking Conference (WCNC) 2019
   * IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2019
-
+---  
 ## Tutorials
 
 * Tutorial on "Wired LAN in ns-3" at 2019 KICS ns-3 lecture, Feb. 2019.
