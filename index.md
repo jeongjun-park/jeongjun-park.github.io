@@ -1,5 +1,6 @@
 
 # [About Me](index) | [CV](CV_swhwang_200420.pdf)
+
 ---  
 ## Profile
 
@@ -10,6 +11,7 @@ Seoul National University (SNU)
 E-mail: **swhwang@netlab.snu.ac.kr, sunwookh@snu.ac.kr**  
 (You can use either email address to reach me.)  
 Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)  
+
 ---  
 ## Education
 
@@ -21,11 +23,13 @@ at Samsung Research)
 * Area of Research: Network Systems & Wireless Communications
 
 #### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
+
 ---  
 ## Current Collaborators
 
 #### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
 #### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
+
 ---  
 ## Research Interest
 - Protocol design for V2X communications and 5G New Radio (NR):
@@ -47,6 +51,7 @@ at Samsung Research)
 
 * Electronics and Telecommunications Research Institute (ETRI),  
 **“Development of Core Technologies for Small-cell Coexistence,”** 2016–2017. 
+
 ---  
 ## Publications
 
@@ -72,6 +77,7 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6-9, 2017.
 
 3. 황선욱, 윤강진, 박태준, 김지훈, 최성현, "LTE-LAA 다중채널 접속기법의 성능향상 방법," 한국통신학회 2017년도 동계종합학술발표회, 강원 정선, 2017년 1월 20일.
 -->
+
 ---  
 ## Intellectual Properties
 
@@ -117,6 +123,7 @@ Korea Copyright Commission C-2017-000564, Jan. 2017.
   * IEEE Wireless Communications and Networking Conference (WCNC) 2020
   * IEEE Wireless Communications and Networking Conference (WCNC) 2019
   * IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2019
+  
 ---  
 ## Tutorials
 
