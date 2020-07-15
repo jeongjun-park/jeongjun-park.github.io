@@ -17,7 +17,7 @@ Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://
 
 #### - Unified Course of M.S. and Ph. D. in ECE from SNU, Mar. 2016 to present  
 * Advisor: [Professor Saewoong Bahk](https://sites.google.com/site/netlabhome/people/faculty/)  
-(Changed from [Sunghyun Choi](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/sunghyun-choi) who was a professor at SNU until August of 2019 and is currently a Senior Vice President and Head of Advanced Communications Research Center
+(Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who was a professor at SNU until August of 2019 and is currently a Senior Vice President and Head of Advanced Communications Research Center
 at Samsung Research)
 * Ubiquitous Network Laboratory in Seoul National University (NETLAB)   
 * Area of Research: Network Systems & Wireless Communications
