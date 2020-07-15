@@ -1,7 +1,7 @@
 
 # [About Me](index) | [CV](CV_swhwang_200420.pdf)
 ---  
-## Profile
+## <ins>Profile</ins>
 ### Ph.D. Candidate  
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)  
 Department of Electrical and Computer Engineering (ECE)  
