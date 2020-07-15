@@ -21,6 +21,10 @@ at Samsung Research)
 
 #### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
 
+## Current Collaborators
+#### [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
+#### [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
+
 ## Research Interest
 - Protocol design for V2X communications and 5G New Radio (NR):
   - 3GPP LTE and 5G NR standard for V2X communication systems, DSRC protocol design
