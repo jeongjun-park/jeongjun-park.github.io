@@ -56,10 +56,11 @@ at Samsung Research)
 ## Publications
 
 ### - International Journal Papers
-1.  **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk, 
-"Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications," to appear in IEEE Transactions on Vehicular Technology.
+1.  **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,  
+"Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications,"  
+to appear in IEEE Transactions on Vehicular Technology.
 
-2. Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi,   
+2. Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi,    
 "Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments,"  
 IEEE Access, vol. 7, pp. 23615--23627, Feb. 2019.
 
