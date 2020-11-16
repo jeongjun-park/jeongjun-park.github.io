@@ -40,6 +40,9 @@ at Samsung Research)
 ---   
 ## Research Projects
 
+* National Research Foundation of Korea grant funded by the Korea government (MSIT) of the Republic of Korea,  
+**“Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks,”** 2020-present.
+
 * 5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion,  
 **“Research and Education for Integrated Technology of 5G/Autonomous Vehicles,”** 2018-2019.
 
@@ -48,9 +51,6 @@ at Samsung Research)
 
 * Institute for Information & communications Technology Promotion grant funded by the Ministry of Science, ICT and Future Planning (MSIP) of the Republic of Korea,  
 **“Spectrum Sensing and Future Radio Communication Platforms,”** 2016–2017.
-
-* Electronics and Telecommunications Research Institute (ETRI),  
-**“Development of Core Technologies for Small-cell Coexistence,”** 2016–2017. 
 
 ---  
 ## Publications
