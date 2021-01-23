@@ -58,7 +58,7 @@ at Samsung Research)
 ### - International Journal Papers
 1.  **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,  
 "Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications,"  
-IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 15177-15187, Dec. 2020.
+IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 15177--15187, Dec. 2020.
 
 2. Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi,    
 "Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments,"  
@@ -67,11 +67,11 @@ IEEE Access, vol. 7, pp. 23615--23627, Feb. 2019.
 ### - International Conference and Workshop Papers
 1. **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi,  
 "Channel Switching Operation of LTE-LAA in Unlicensed Spectrum,"  
-in Proc. IEEE ICTC 2017, Jeju, South Korea, Oct. 18-20, 2017.  
+in Proc. IEEE ICTC 2017, Jeju, South Korea, Oct. 18--20, 2017.  
 
 2. Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi,  
 "COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum,"  
-in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6-9, 2017.
+in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6--9, 2017.
 
 <!--
 #### - Domestic Conference Papers
