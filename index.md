@@ -65,11 +65,15 @@ IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 15177--15187, De
 IEEE Access, vol. 7, pp. 23615--23627, Feb. 2019.
 
 ### - International Conference and Workshop Papers
-1. **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi,  
+1. Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk, 
+"PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4," 
+to appear in IEEE WCNC 2021, Nanjing, China, Mar. 29--Apr. 1, 2021.
+
+2. **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi,  
 "Channel Switching Operation of LTE-LAA in Unlicensed Spectrum,"  
 in Proc. IEEE ICTC 2017, Jeju, South Korea, Oct. 18--20, 2017.  
 
-2. Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi,  
+3. Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi,  
 "COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum,"  
 in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6--9, 2017.
 
