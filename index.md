@@ -126,6 +126,7 @@ Korea Copyright Commission C-2017-000564, Jan. 2017.
 
 #### Reviewer
 - International Journal
+  * IEEE Transactions on Vehicular Technology (TVT)
   * IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - International Conferences
   * IEEE Wireless Communications and Networking Conference (WCNC) 2020
