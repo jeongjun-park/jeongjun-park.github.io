@@ -94,7 +94,7 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6--9, 2017.
 “Method, apparatus and computer readable record media for collision-aware link adaptation through clustering,”  
 **Korean Patent 10-2099376**, Apr. 2020.
 
-* **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, and Sunghyun Choi,   
+* **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,   
 "Method and apparatus for communication between vehicles and apparatus for using the same,"   
 **Korean Patent 10-1975759**, Apr. 2019.  
 **US/16/686,519**, Nov. 2019.  
