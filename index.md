@@ -9,7 +9,7 @@ Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)
 Department of Electrical and Computer Engineering (ECE)  
 Seoul National University (SNU)  
 E-mail: 
-**swhwang at netlab dot snu dot ac dot kr**
+**swhwang at netlab dot snu dot ac dot kr**,
 **sunwookh at snu dot ac dot kr**  
 (You can use either email address to reach me.)  
 Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)  
