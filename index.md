@@ -91,7 +91,7 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6--9, 2017.
 ### - Patent Intellectual Properties
 * **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,   
 "Method and apparatus for communication between vehicles and apparatus for using the same,"   
-**US 11,032,682 B2**, June, 2021.
+**US 11,032,682 B2**, June, 2021.\
 **Korean Patent 10-1975759**, Apr. 2019.  
 
 * Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi,  
