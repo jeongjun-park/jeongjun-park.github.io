@@ -33,8 +33,8 @@ at Samsung Research)
 
 ---  
 ## Research Interest
-- Protocol design for V2X communications and 5G New Radio (NR):
-  - 3GPP LTE and 5G NR standard for V2X communication systems, DSRC protocol design
+- Distributed learning, 3D object detection for autonomous vehicles
+- Protocol design for V2X communications and 5G New Radio (NR)
   
 ---   
 ## Research Projects
