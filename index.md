@@ -1,5 +1,5 @@
 
-# [About Me](index) | [CV](CV_swhwang_210302.pdf)
+# [About Me](index) | [CV](CV_swhwang.pdf)
 
 ---  
 ## Profile
