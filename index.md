@@ -21,8 +21,8 @@ E-mail: (You can use either email address to reach me.)
 (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who was a professor at SNU until August of 2019 and is currently a Senior Vice President and Head of Advanced Communications Research Center
 at Samsung Research)
 * Ubiquitous Network Laboratory in Seoul National University (NETLAB)   
-* Area of Research: Network Systems & Wireless Communications
-
+<!-- * Area of Research: Network Systems & Wireless Communications
+ -->
 #### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
 
 ---  
