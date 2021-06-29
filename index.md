@@ -23,6 +23,7 @@ at Samsung Research)
 * Ubiquitous Network Laboratory in Seoul National University (NETLAB)   
 <!-- * Area of Research: Network Systems & Wireless Communications
  -->
+
 #### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
 
 ---  
