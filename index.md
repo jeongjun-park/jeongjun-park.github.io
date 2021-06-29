@@ -26,12 +26,6 @@ at Samsung Research)
 #### - B.S. in Electrical Engineering from Pohang University of Science and Technology (POSTECH) in Feb. 2016
 
 ---  
-## Current Collaborators
-
-#### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
-#### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
-
----  
 ## Research Interest
 - Distributed learning, 3D object detection for autonomous vehicles
 - Protocol design for V2X communications and 5G New Radio (NR)
@@ -50,6 +44,12 @@ at Samsung Research)
 
 * Institute for Information & communications Technology Promotion grant funded by the Ministry of Science, ICT and Future Planning (MSIP) of the Republic of Korea,  
 **“Spectrum Sensing and Future Radio Communication Platforms,”** 2016–2017.
+
+---  
+## Current Collaborators
+
+#### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
+#### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
 
 ---  
 ## Publications
