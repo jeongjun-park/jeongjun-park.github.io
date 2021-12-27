@@ -17,7 +17,7 @@ E-mail: (You can use either email address to reach me.)
 ## Education
 
 #### - Unified Course of M.S. and Ph. D. in ECE from SNU, Mar. 2016 to present  
-* Advisor: [Professor Saewoong Bahk](https://sites.google.com/site/netlabhome/people/faculty/)  
+* Advisor: [Professor Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)  
 (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who was a professor at SNU until August of 2019 and is currently a Senior Vice President and Head of Advanced Communications Research Center
 at Samsung Research)
 * Ubiquitous Network Laboratory in Seoul National University (NETLAB)   
