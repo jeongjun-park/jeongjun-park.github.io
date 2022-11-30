@@ -79,7 +79,7 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6--9, 2017.
 
 ### - ArXiv Preprints
 1.  **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Hyung-sin Kim, and Saewoong Bahk, 
- "UpCycling: Feature-level Scene Augmentation for Semi-supervised 3D Object Detection," 
+ "UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes," 
  arXiv preprint [arXiv:2211.11950.](https://arxiv.org/abs/2211.11950)
 
 
