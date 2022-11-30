@@ -77,6 +77,12 @@ in Proc. IEEE ICTC 2017, Jeju, South Korea, Oct. 18--20, 2017.
 "COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum,"  
 in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6--9, 2017.
 
+### - ArXiv Preprints
+1.  **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Hyung-sin Kim, and Saewoong Bahk, 
+ "UpCycling: Feature-level Scene Augmentation for Semi-supervised 3D Object Detection," 
+ arXiv preprint [arXiv:2211.11950.](https://arxiv.org/abs/2211.11950)
+
+
 <!--
 #### - Domestic Conference Papers
 1. 황선욱, 윤호영, 김병준, 최성현, "C-V2X에서 효과적인 CAM 중계 방식의 필요성에 대한 고찰," 제29회 통신정보합동학술대회 (JCCI 2019), 강릉, 2019년 5월 1-3일.  
