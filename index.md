@@ -35,7 +35,7 @@ at Samsung Research)
 ## Research Projects
 
 * National Research Foundation grant funded by the Korea government (MSIT),  
-**“Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks,”** 2020-present.
+**“Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks,”** 2020-2023.
 
 * 5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion,  
 **“Research and Education for Integrated Technology of 5G/Autonomous Vehicles,”** 2018-2019.
