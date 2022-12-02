@@ -92,12 +92,12 @@ in Proc. IEEE DySPAN 2017, Baltimore, MD, USA, Mar. 6--9, 2017.
 ## Intellectual Properties
 
 ### - Patent Intellectual Properties
-* **Sunwook Hwang**, Youngseok Kim, Hyung-sin Kim, and Saewoong Bahk,   
+* **Sunwook Hwang**, Youngseok Kim, Saewoong Bahk, and Hyung-sin Kim,
 "Semi-supervised learning method for object detection in autonomous vehicle
 and server for performing semi-supervised learning for object detection in
 autonomous vehicle,"   
 **US 11,495,012**, Nov. 2022.\
-**Korean Patent ‭10-23-402**, Apr. 2022.  
+**Korean Patent 10-23-402**, Apr. 2022.  
 
 * **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,   
 "Method and apparatus for communication between vehicles and apparatus for using the same,"   
