@@ -20,6 +20,7 @@ E-mail: (You can use either email address to reach me.)\
 * Advisor: [Professor Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)\
 (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is currently a Senior Vice President and Head of Advanced Communications Research Center
 at Samsung Research)
+
 * Ubiquitous Network Laboratory in Seoul National University (NETLAB)
 <!-- * Area of Research: Network Systems & Wireless Communications
  -->
@@ -29,6 +30,7 @@ at Samsung Research)
 ---
 ## Research Interest
 - **Distributed learning, 3D object detection for autonomous vehicles**
+
 - **Protocol design for V2X communications and 5G New Radio (NR)**
 
 ---
