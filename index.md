@@ -95,42 +95,43 @@ Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kan
 ## Intellectual Properties
 
 ### - Patent Intellectual Properties
-* **Sunwook Hwang**, Youngseok Kim, Saewoong Bahk, and Hyung-sin Kim,
-"Semi-supervised learning method for object detection in autonomous vehicle
+* Semi-supervised learning method for object detection in autonomous vehicle
 and server for performing semi-supervised learning for object detection in
-autonomous vehicle,"\
+autonomous vehicle\
+**Sunwook Hwang**, Youngseok Kim, Saewoong Bahk, and Hyung-sin Kim\
 **US 11,495,012**, Nov. 2022.\
 **Korean Patent 10-23-402**, Apr. 2022.
 
-* **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,
-"Method and apparatus for communication between vehicles and apparatus for using the same,"\
+* Method and apparatus for communication between vehicles and apparatus for using the same\
+**Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk\
 **US 11,032,682 B2**, June, 2021.\
 **Korean Patent 10-1975759**, Apr. 2019.
 
-* Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi,
-“Method, apparatus and computer readable record media for collision-aware link adaptation through clustering,”\
+* Method, apparatus and computer readable record media for collision-aware link adaptation through clustering\
+Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi\
 **Korean Patent 10-2099376**, Apr. 2020.
 
-* Seungil Park, **Sunwook Hwang**, Hoyoung Yoon, Byungjun Kim, and Sunghyun Choi,
-"Method and apparatus for message relaying,"\
-**PCT/KR2019/008328**, July 2019.
+* Method and apparatus for message relaying\
+Seungil Park, **Sunwook Hwang**, Hoyoung Yoon, Byungjun Kim, and Sunghyun Choi\
+**PCT/KR2019/008328**, July 2019.\
 **Korean Patent 10-1935230**, Dec. 2018.
 
-* Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi,
-"Method, apparatus and computer readable record media for sharing radio resource on unlicensed band,"\
+* Method, apparatus and computer readable record media for sharing radio resource on unlicensed band\
+Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
 **Korean Patent 10-1865390**, May 2018.
 
-* Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seunghoon Park, Jungsoo Jung, Jaehong Yi, Kangjin Yoon, and **Sunwook Hwang**,
-“Apparatus and method for operating a plurality of carriers in wireless communication system,”\
+* Apparatus and method for operating a plurality of carriers in wireless communication system\
+Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seunghoon Park, Jungsoo Jung, Jaehong Yi, Kangjin Yoon, and **Sunwook Hwang**\
 Korean Patents Application 10-2017-0111389, filed Aug. 2017, Patent Pending.
 
 ### - Software Intellectual Properties
-* Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi,"
-LAA Channel Occupancy Time Adaptation Algorithm for fair coexistence with WLAN,"
+
+* LAA Channel Occupancy Time Adaptation Algorithm for fair coexistence with WLAN\
+Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
 Korea Copyright Commission C-2017-024231, Oct. 2017.
 
-* Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi,
-"WLAN Saturation Detection Algorithm,"
+* WLAN Saturation Detection Algorithm\
+Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
 Korea Copyright Commission C-2017-000564, Jan. 2017.
 
 ---
