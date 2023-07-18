@@ -79,7 +79,7 @@ Channel Switching Operation of LTE-LAA in Unlicensed Spectrum\
 ---
 ## Intellectual Properties
 
-### - Patent Intellectual Properties
+### - Patents
 * Semi-supervised learning method for object detection in autonomous vehicle
 and server for performing semi-supervised learning for object detection in
 autonomous vehicle\
@@ -141,7 +141,7 @@ Institute for Information & communications Technology Promotion grant funded by 
 ---
 ## Professional Activities
 
-#### Reviewer
+### - Reviewer
 - International Journal
   * IEEE Transactions on Vehicular Technology (TVT)
   * IEEE Transactions on Cognitive Communications and Networking (TCCN)
