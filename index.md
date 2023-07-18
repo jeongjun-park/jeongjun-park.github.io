@@ -59,7 +59,7 @@ at Samsung Research)
 
 * **[IEEE/CVF ICCV 2023]**
 UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes<br>
-**Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim
+**Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
 (Acceptance ratio: <20%).
 
 * **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications<br>
@@ -67,15 +67,15 @@ UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabel
 
 * **[IEEE WCNC 2021]**
 PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4 <br>
-Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk,
+Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk
 
 * **[IEEE Access 2019]**
 Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments <br>
-Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi,
+Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi
 
 * **[IEEE DySPAN 2017]**
 COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum <br>
-Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi,
+Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi
 
 <!-- 6. **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi,
 "Channel Switching Operation of LTE-LAA in Unlicensed Spectrum,"
@@ -98,30 +98,30 @@ Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kan
 * **Sunwook Hwang**, Youngseok Kim, Saewoong Bahk, and Hyung-sin Kim,
 "Semi-supervised learning method for object detection in autonomous vehicle
 and server for performing semi-supervised learning for object detection in
-autonomous vehicle,"
+autonomous vehicle,"\
 **US 11,495,012**, Nov. 2022.\
 **Korean Patent 10-23-402**, Apr. 2022.
 
 * **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,
-"Method and apparatus for communication between vehicles and apparatus for using the same,"
+"Method and apparatus for communication between vehicles and apparatus for using the same,"\
 **US 11,032,682 B2**, June, 2021.\
 **Korean Patent 10-1975759**, Apr. 2019.
 
 * Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi,
-“Method, apparatus and computer readable record media for collision-aware link adaptation through clustering,”
+“Method, apparatus and computer readable record media for collision-aware link adaptation through clustering,”\
 **Korean Patent 10-2099376**, Apr. 2020.
 
 * Seungil Park, **Sunwook Hwang**, Hoyoung Yoon, Byungjun Kim, and Sunghyun Choi,
-"Method and apparatus for message relaying,"
+"Method and apparatus for message relaying,"\
 **PCT/KR2019/008328**, July 2019.
 **Korean Patent 10-1935230**, Dec. 2018.
 
 * Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi,
-"Method, apparatus and computer readable record media for sharing radio resource on unlicensed band,"
+"Method, apparatus and computer readable record media for sharing radio resource on unlicensed band,"\
 **Korean Patent 10-1865390**, May 2018.
 
 * Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seunghoon Park, Jungsoo Jung, Jaehong Yi, Kangjin Yoon, and **Sunwook Hwang**,
-“Apparatus and method for operating a plurality of carriers in wireless communication system,”
+“Apparatus and method for operating a plurality of carriers in wireless communication system,”\
 Korean Patents Application 10-2017-0111389, filed Aug. 2017, Patent Pending.
 
 ### - Software Intellectual Properties
