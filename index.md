@@ -89,7 +89,7 @@ autonomous vehicle\
 
 * Apparatus and method for using multiple carriers in wireless communication system\
 Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seung-Hoon Park, Jungsoo Jung, Taejun Park, Kangjin Yoon, Jaehong Yi, **Sunwook Hwang**\
-**US 11,330,585B2**, May 2022.
+**US 11,330,585 B2**, May 2022.
 
 * Method and apparatus for communication between vehicles and apparatus for using the same\
 **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk\
