@@ -55,29 +55,29 @@ at Samsung Research)
 ---
 ## Journals & Conferences
 
-1. **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim,
-"UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes,"
-**IEEE/CVF ICCV**, Oct. 2023 (Acceptance ratio: <20%).
+* **[IEEE/CVF ICCV 2023]**
+UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes<br>
+**Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim
+(Acceptance ratio: <20%).
 
-2.  **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk,
-"Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications,"
-**IEEE Transactions on Vehicular Technology**, vol. 69, no. 12, pp. 15177--15187, Dec. 2020.
+* **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications<br>
+**Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk
 
-3. Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk,
-"PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4,"
-**IEEE WCNC** 2021, Mar. 29--Apr. 1, 2021.
+* **[IEEE WCNC 2021]**
+PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4 <br>
+Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk,
 
-4. Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi,
-"Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments,"
-**IEEE Access**, vol. 7, pp. 23615--23627, Feb. 2019.
+* **[IEEE Access 2019]**
+Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments <br>
+Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi,
 
-5. Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi,
-"COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum,"
-**IEEE DySPAN**, Mar. 6--9, 2017.
+* **[IEEE DySPAN 2017]**
+COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum <br>
+Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi,
 
-6. **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi,
+<!-- 6. **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi,
 "Channel Switching Operation of LTE-LAA in Unlicensed Spectrum,"
-**IEEE ICTC**, Oct. 18--20, 2017.
+**IEEE ICTC**, Oct. 18--20, 2017. -->
 
 
 <!--
