@@ -65,7 +65,11 @@ IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 15177--15187, De
 IEEE Access, vol. 7, pp. 23615--23627, Feb. 2019.
 
 ### - International Conference and Workshop Papers
-1. Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk,
+1. **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim,
+"UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes,"
+IEEE/CVF ICCV, Oct. 2023.
+
+4. Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk,
 "PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4,"
 to appear in IEEE WCNC 2021, Nanjing, China, Mar. 29--Apr. 1, 2021.
 
