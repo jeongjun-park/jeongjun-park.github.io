@@ -58,7 +58,7 @@ at Samsung Research)
 ## Journals & Conferences
 
 * **[IEEE/CVF ICCV 2023]**
-UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes<br>
+UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes  [[arXiv]](https://arxiv.org/abs/2211.11950)\
 **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
 **(Acceptance ratio: <20%)**
 
