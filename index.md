@@ -60,7 +60,7 @@ at Samsung Research)
 * **[IEEE/CVF ICCV 2023]**
 UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes<br>
 **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
-(Acceptance ratio: <20%).
+**(Acceptance ratio: <20%)**
 
 * **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications<br>
 **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk
