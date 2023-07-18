@@ -34,21 +34,6 @@ at Samsung Research)
 - **Protocol design for V2X communications and 5G New Radio (NR)**
 
 ---
-## Research Projects
-
-* National Research Foundation grant funded by the Korea government (MSIT),
-**“Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks,”** 2020-2023.
-
-* 5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion,
-**“Research and Education for Integrated Technology of 5G/Autonomous Vehicles,”** 2018-2019.
-
-* LG Electronics,
-**“Dual Interface Synchronized Hybrid V2X Research by Simulation,”** 2018.
-
-* Institute for Information & communications Technology Promotion grant funded by the Ministry of Science, ICT and Future Planning (MSIP) of the Republic of Korea,
-**“Spectrum Sensing and Future Radio Communication Platforms,”** 2016–2017.
-
----
 ## Current Collaborators
 
 #### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
@@ -133,6 +118,21 @@ Korea Copyright Commission C-2017-024231, Oct. 2017.
 * WLAN Saturation Detection Algorithm\
 Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
 Korea Copyright Commission C-2017-000564, Jan. 2017.
+
+---
+## Research Projects
+
+* **Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks**\
+National Research Foundation grant funded by the Korea government (MSIT), 2020-2023.
+
+* **Research and Education for Integrated Technology of 5G/Autonomous Vehicles**\
+5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion, 2018-2019.
+
+* **Dual Interface Synchronized Hybrid V2X Research by Simulation**\
+LG Electronics, 2018.
+
+* **Spectrum Sensing and Future Radio Communication Platforms**\
+Institute for Information & communications Technology Promotion grant funded by the Ministry of Science, ICT and Future Planning (MSIP) of the Republic of Korea, 2016–2017.
 
 ---
 ## Professional Activities
