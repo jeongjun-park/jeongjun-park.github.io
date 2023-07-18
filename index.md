@@ -64,7 +64,7 @@ IEEE Transactions on Vehicular Technology, vol. 69, no. 12, pp. 15177--15187, De
 "Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments,"
 IEEE Access, vol. 7, pp. 23615--23627, Feb. 2019.
 
-### - International Conference and Workshop Papers
+### - International Conference
 1. **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim,
 "UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes,"
 IEEE/CVF ICCV, Oct. 2023.
