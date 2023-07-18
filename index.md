@@ -88,7 +88,7 @@ autonomous vehicle\
 **Korean Patent 10-23-402**, Apr. 2022.
 
 * Apparatus and method for using multiple carriers in wireless communication system\
-Byounghoon JUNG, Jihoon Kim, Sunghyun Choi, Seung-Hoon Park, Jungsoo JUNG, Taejun PARK, Kangjin YOON, Jaehong YI, **Sunwook Hwang**\
+Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seung-Hoon Park, Jungsoo Jung, Taejun Park, Kangjin Yoon, Jaehong Yi, **Sunwook Hwang**\
 **US 11,330,585B2**, May 2022.
 
 * Method and apparatus for communication between vehicles and apparatus for using the same\
