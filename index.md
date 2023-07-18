@@ -62,9 +62,9 @@ Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan,
 COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum <br>
 Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi
 
-<!-- 6. **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi,
-"Channel Switching Operation of LTE-LAA in Unlicensed Spectrum,"
-**IEEE ICTC**, Oct. 18--20, 2017. -->
+* **[IEEE ICTC 2017]**
+Channel Switching Operation of LTE-LAA in Unlicensed Spectrum\
+**Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi
 
 
 <!--
