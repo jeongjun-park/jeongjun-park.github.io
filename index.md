@@ -30,7 +30,9 @@ at Samsung Research)
 
 ---
 ## Research Interest
-- **Distributed learning, 3D object detection for autonomous vehicles**
+- **Distributed learning, semi-supervised learning**
+
+- **3D object detection for autonomous vehicles**
 
 - **Protocol design for V2X communications and 5G New Radio (NR)**
 
