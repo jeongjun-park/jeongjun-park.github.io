@@ -6,7 +6,7 @@
 
 ### Ph.D., Postdoctoral Researcher
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)\
-Department of Electrical and Computer Engineering [(ECE)](https://ece.snu.ac.kr)\
+Electrical and Computer Engineering [(ECE)](https://ece.snu.ac.kr)\
 Seoul National University [(SNU)](https://snu.ac.kr)\
 E-mail:
      **swhwang /at/ netlab.snu.ac.kr**
