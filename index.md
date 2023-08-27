@@ -18,7 +18,7 @@ E-mail:
 ## Education
 
 #### - Ph.D. in ECE from SNU in Aug. 2023
-- Advisor: [Professor Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)
+- Advisor: [Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)
 - Advisor before moving from MWNL to NETLAB: [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) (Now at Samsung Research)
 
 <!-- (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is
