@@ -32,7 +32,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 - **Protocol design for V2X communications and 5G New Radio** -->
 
 #### - Distributed, semi-supervised learning
-#### - 3D object detection for autonomous vehicles
+#### - 3D vision for autonomous vehicles
 #### - Protocol design for V2X and 5G New Radio
 
 ---
