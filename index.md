@@ -4,7 +4,7 @@
 ---
 ## Profile
 
-### Ph.D. Candidate
+### Ph.D., Postdoctoral Researcher
 Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)\
 Department of Electrical and Computer Engineering [(ECE)](https://ece.snu.ac.kr)\
 Seoul National University [(SNU)](https://snu.ac.kr)\
