@@ -47,14 +47,14 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 ## Journals & Conferences
 
 * **[IEEE/CVF ICCV 2023]**
-UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Project]](upcycling.html) [[OpenAccess]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
+UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Project]](upcycling.html) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
 **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
 
-* **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications [[PDF]](/static/pdfs/20_swhwang_TVT_BeyondVision.pdf)\
+* **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications [[Paper]](/static/pdfs/20_swhwang_TVT_BeyondVision.pdf)\
 **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk
 
 * **[IEEE WCNC 2021]**
-PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4 [[PDF]](/static/pdfs/21_jmyang_WCNC_PRESS.pdf)\
+PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4 [[Paper]](/static/pdfs/21_jmyang_WCNC_PRESS.pdf)\
 Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk
 
 * **[IEEE Access 2019]**
