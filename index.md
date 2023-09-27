@@ -47,7 +47,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 ## Journals & Conferences
 
 * **[IEEE/CVF ICCV 2023]**
-UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes  [[arXiv]](https://arxiv.org/abs/2211.11950)\
+UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[project]](upcycling.html) [[arXiv]](https://arxiv.org/abs/2211.11950)\
 **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
 
 * **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications<br>
