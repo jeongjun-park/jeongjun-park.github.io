@@ -1,5 +1,5 @@
 
-# [About Me](index) | [CV](Resume_SunwookHwang(2310).pdf)
+# [About Me](index) | [CV](Resume_SunwookHwang(OCT.23).pdf)
 
 ---
 ## Profile
