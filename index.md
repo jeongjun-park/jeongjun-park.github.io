@@ -40,12 +40,12 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 ---
 ## Current Collaborators
 
-- **[Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home)** (Assistant Professor, Data Science, Seoul National University)
-- **[Seongwon Kim](https://www.linkedin.com/in/s1kim/)** (Research Engineer, T-Brain, SK Telecom)
-- **[Kanghyun Lee](https://lee-kanghyun.github.io)** (Ph.D Candidate, Seoul National University)
-- **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D Candidate, Seoul National University)
-- **[Jinmo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0)** (Ph.D Candidate, Seoul National University)
-- **[Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0)** (Ph.D Candidate, Seoul National University)
+- **[Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home)** (Assistant Professor, SNU)
+- **[Seongwon Kim](https://www.linkedin.com/in/s1kim/)** (Research Engineer, SKT)
+- **[Kanghyun Lee](https://lee-kanghyun.github.io)** (Ph.D. Candidate, SNU)
+- **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D. Candidate, SNU)
+- **[Jinmo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0)** (Ph.D. Candidate, SNU)
+- **[Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0)** (Ph.D. Candidate, SNU)
 
 ---
 ## Journals & Conferences
