@@ -42,6 +42,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 
 #### - [Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home) (Assistant Professor, Data Science, Seoul National University)
 #### - [Seongwon Kim](https://sites.google.com/a/mwnl.snu.ac.kr/www/people/seongwon-kim) (Research Engineer, T-Brain, SK Telecom)
+#### - [Kanghyun Lee](https://lee-kanghyun.github.io) (Ph.D Candidate, Seoul National University)
 #### - [Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0) (Ph.D Candidate, Seoul National University)
 #### - [Jinmo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0) (Ph.D Candidate, Seoul National University)
 #### - [Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0) (Ph.D Candidate, Seoul National University)
