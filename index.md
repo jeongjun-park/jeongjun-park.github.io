@@ -44,7 +44,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 - **[Seongwon Kim](https://www.linkedin.com/in/s1kim/)** (Researcher, SKT)
 - **[Kanghyun Lee](https://lee-kanghyun.github.io)** (Ph.D. Candidate, SNU)
 - **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D. Candidate, SNU)
-- **[Jinmo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0)** (Ph.D. Candidate, SNU)
+- **[Jin Mo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0)** (Ph.D. Candidate, SNU)
 - **[Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0)** (Ph.D. Candidate, SNU)
 
 ---
