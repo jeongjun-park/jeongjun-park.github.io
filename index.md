@@ -55,6 +55,10 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Project]](upcycling.html) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
 **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
 
+* **[IEEE VTS APWCS 2022]**
+A Study on the Feature-level Perception Sharing of Autonomous Vehicles\
+Youngseok Kim, **Sunwook Hwang**,  Saewoong Bahk <br>
+
 * **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications [[Paper]](/static/pdfs/20_swhwang_TVT_BeyondVision.pdf)\
 **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk
 
