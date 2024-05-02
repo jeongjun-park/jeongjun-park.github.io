@@ -41,7 +41,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 ---
 ## Current Collaborators
 
-- **[Hyung-Sin Kim](https://sites.google.com/site/hskiminthebody/home)** (Assistant Professor, SNU)
+- **[Hyung-Sin Kim](https://aiot.snu.ac.kr)** (Assistant Professor, SNU)
 - **[Seongwon Kim](https://www.linkedin.com/in/s1kim/)** (Researcher, SKT)
 - **[Kanghyun Lee](https://lee-kanghyun.github.io)** (Ph.D. Candidate, SNU)
 - **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D. Candidate, SNU)
