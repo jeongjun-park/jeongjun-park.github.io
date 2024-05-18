@@ -1,7 +1,7 @@
-
 # [About Me](index) | [CV](Resume_SunwookHwang.pdf)
 
 ---
+
 ## Profile
 
 ### Ph.D., Postdoctoral Researcher
@@ -10,19 +10,21 @@ Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)\
 Electrical and Computer Engineering [(ECE)](https://ece.snu.ac.kr)\
 Seoul National University [(SNU)](https://snu.ac.kr)\
 E-mail:
-     **swhwang /at/ netlab.snu.ac.kr**
+**swhwang /at/ netlab.snu.ac.kr**
 
-- Advisor: **[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
+- **Advisor: [Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
 <!-- Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)\ -->
 
 ---
+
 ## Education
 
 #### - Ph.D. in ECE from SNU in Aug. 2023
-- Advisor \
-**[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
-- Advisor before moving to NETLAB \
-**[Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)**  (Currently Head of Advanced R&D Team, Samsung Networks)
+
+- **Advisor**
+  - **[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
+- **Advisor before moving to NETLAB**
+  - **[Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)** (Currently Head of Advanced R&D Team, Samsung Networks)
 
 <!-- (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is
 an Executive Vice President and Head of the Advanced Communications Research Center at Samsung Research, Samsung Electronics)
@@ -31,16 +33,21 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 #### - B.S. in EE from POSTECH in Feb. 2016
 
 ---
+
 ## Research Interest
+
 <!-- - **Distributed learning, semi-supervised learning**
 - **3D object detection for autonomous vehicles**
 - **Protocol design for V2X communications and 5G New Radio** -->
 
 #### - Distributed, semi-supervised learning
+
 #### - 3D vision for autonomous vehicles
+
 #### - Protocol design for V2X and 5G New Radio
 
 ---
+
 ## Current Collaborators
 
 - **[Hyung-Sin Kim](https://aiot.snu.ac.kr)** (Assistant Professor, SNU)
@@ -51,35 +58,35 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 - **[Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0)** (Ph.D. Candidate, SNU)
 
 ---
+
 ## Journals & Conferences
 
-* **[IEEE/CVF ICCV 2023]**
-UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Project]](upcycling.html) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
-**Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
+- **[IEEE/CVF ICCV 2023]**
+  UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Project]](upcycling.html) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
+  **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
 
-* **[IEEE VTS APWCS 2022]**
-A Study on the Feature-level Perception Sharing of Autonomous Vehicles\
-Youngseok Kim, **Sunwook Hwang**,  Saewoong Bahk <br>
+- **[IEEE VTS APWCS 2022]**
+  A Study on the Feature-level Perception Sharing of Autonomous Vehicles\
+  Youngseok Kim, **Sunwook Hwang**, Saewoong Bahk <br>
 
-* **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications [[Paper]](/static/pdfs/20_swhwang_TVT_BeyondVision.pdf)\
-**Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk
+- **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications [[Paper]](/static/pdfs/20_swhwang_TVT_BeyondVision.pdf)\
+  **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk
 
-* **[IEEE WCNC 2021]**
-PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4 [[Paper]](/static/pdfs/21_jmyang_WCNC_PRESS.pdf)\
-Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk
+- **[IEEE WCNC 2021]**
+  PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4 [[Paper]](/static/pdfs/21_jmyang_WCNC_PRESS.pdf)\
+  Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk
 
-* **[IEEE Access 2019]**
-Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments\
-Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi
+- **[IEEE Access 2019]**
+  Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments\
+  Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi
 
-* **[IEEE DySPAN 2017]**
-COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum\
-Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi
+- **[IEEE DySPAN 2017]**
+  COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum\
+  Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi
 
-* **[IEEE ICTC 2017]**
-Channel Switching Operation of LTE-LAA in Unlicensed Spectrum\
-**Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi
-
+- **[IEEE ICTC 2017]**
+  Channel Switching Operation of LTE-LAA in Unlicensed Spectrum\
+  **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi
 
 <!--
 #### - Domestic Conference Papers
@@ -91,85 +98,91 @@ Channel Switching Operation of LTE-LAA in Unlicensed Spectrum\
 -->
 
 ---
+
 ## Intellectual Properties
 
 ### - Patents
-* Semi-supervised learning method for object detection in autonomous vehicle
-and server for performing semi-supervised learning for object detection in
-autonomous vehicle\
-**Sunwook Hwang**, Youngseok Kim, Saewoong Bahk, and Hyung-sin Kim\
-**US 11,495,012**, Nov. 2022.\
-**Korean Patent 10-23-402**, Apr. 2022.
 
-* Apparatus and method for using multiple carriers in wireless communication system\
-Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seung-Hoon Park, Jungsoo Jung, Taejun Park, Kangjin Yoon, Jaehong Yi, **Sunwook Hwang**\
-**US 11,330,585 B2**, May 2022.
+- Semi-supervised learning method for object detection in autonomous vehicle
+  and server for performing semi-supervised learning for object detection in
+  autonomous vehicle\
+  **Sunwook Hwang**, Youngseok Kim, Saewoong Bahk, and Hyung-sin Kim\
+  **US 11,495,012**, Nov. 2022.\
+  **Korean Patent 10-23-402**, Apr. 2022.
 
-* Method and apparatus for communication between vehicles and apparatus for using the same\
-**Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk\
-**US 11,032,682 B2**, June, 2021.\
-**Korean Patent 10-1975759**, Apr. 2019.
+- Apparatus and method for using multiple carriers in wireless communication system\
+  Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seung-Hoon Park, Jungsoo Jung, Taejun Park, Kangjin Yoon, Jaehong Yi, **Sunwook Hwang**\
+  **US 11,330,585 B2**, May 2022.
 
-* Method, apparatus and computer readable record media for collision-aware link adaptation through clustering\
-Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi\
-**Korean Patent 10-2099376**, Apr. 2020.
+- Method and apparatus for communication between vehicles and apparatus for using the same\
+  **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk\
+  **US 11,032,682 B2**, June, 2021.\
+  **Korean Patent 10-1975759**, Apr. 2019.
 
-* Method and apparatus for message relaying\
-Seungil Park, **Sunwook Hwang**, Hoyoung Yoon, Byungjun Kim, and Sunghyun Choi\
-**PCT/KR2019/008328**, July 2019.\
-**Korean Patent 10-1935230**, Dec. 2018.
+- Method, apparatus and computer readable record media for collision-aware link adaptation through clustering\
+  Kangjin Yoon, **Sunwook Hwang**, and Sunghyun Choi\
+  **Korean Patent 10-2099376**, Apr. 2020.
 
-* Method, apparatus and computer readable record media for sharing radio resource on unlicensed band\
-Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
-**Korean Patent 10-1865390**, May 2018.
+- Method and apparatus for message relaying\
+  Seungil Park, **Sunwook Hwang**, Hoyoung Yoon, Byungjun Kim, and Sunghyun Choi\
+  **PCT/KR2019/008328**, July 2019.\
+  **Korean Patent 10-1935230**, Dec. 2018.
 
-* Apparatus and method for operating a plurality of carriers in wireless communication system\
-Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seunghoon Park, Jungsoo Jung, Jaehong Yi, Kangjin Yoon, and **Sunwook Hwang**\
-Korean Patents Application 10-2017-0111389, filed Aug. 2017, Patent Pending.
+- Method, apparatus and computer readable record media for sharing radio resource on unlicensed band\
+  Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
+  **Korean Patent 10-1865390**, May 2018.
+
+- Apparatus and method for operating a plurality of carriers in wireless communication system\
+  Byounghoon Jung, Jihoon Kim, Sunghyun Choi, Seunghoon Park, Jungsoo Jung, Jaehong Yi, Kangjin Yoon, and **Sunwook Hwang**\
+  Korean Patents Application 10-2017-0111389, filed Aug. 2017, Patent Pending.
 
 ### - Software Intellectual Properties
 
-* LAA Channel Occupancy Time Adaptation Algorithm for fair coexistence with WLAN\
-Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
-Korea Copyright Commission C-2017-024231, Oct. 2017.
+- LAA Channel Occupancy Time Adaptation Algorithm for fair coexistence with WLAN\
+  Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
+  Korea Copyright Commission C-2017-024231, Oct. 2017.
 
-* WLAN Saturation Detection Algorithm\
-Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
-Korea Copyright Commission C-2017-000564, Jan. 2017.
+- WLAN Saturation Detection Algorithm\
+  Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
+  Korea Copyright Commission C-2017-000564, Jan. 2017.
 
 ---
+
 ## Research Projects
 
-* **Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks**\
-National Research Foundation grant funded by the Korea government (MSIT), 2020-2023.
+- **Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks**\
+  National Research Foundation grant funded by the Korea government (MSIT), 2020-2023.
 
-* **Research and Education for Integrated Technology of 5G/Autonomous Vehicles**\
-5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion, 2018-2019.
+- **Research and Education for Integrated Technology of 5G/Autonomous Vehicles**\
+  5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion, 2018-2019.
 
-* **Dual Interface Synchronized Hybrid V2X Research by Simulation**\
-LG Electronics, 2018.
+- **Dual Interface Synchronized Hybrid V2X Research by Simulation**\
+  LG Electronics, 2018.
 
-* **Spectrum Sensing and Future Radio Communication Platforms**\
-Institute for Information & communications Technology Promotion grant funded by the Ministry of Science, ICT and Future Planning (MSIP) of the Republic of Korea, 2016–2017.
+- **Spectrum Sensing and Future Radio Communication Platforms**\
+  Institute for Information & communications Technology Promotion grant funded by the Ministry of Science, ICT and Future Planning (MSIP) of the Republic of Korea, 2016–2017.
 
 ---
+
 ## Professional Activities
 
 ### - Reviewer
+
 - International Journal
-  * IEEE Transactions on Vehicular Technology (TVT)
-  * IEEE Transactions on Cognitive Communications and Networking (TCCN)
+  - IEEE Transactions on Vehicular Technology (TVT)
+  - IEEE Transactions on Cognitive Communications and Networking (TCCN)
 - International Conferences
-  * IEEE Wireless Communications and Networking Conference (WCNC) 2020
-  * IEEE Wireless Communications and Networking Conference (WCNC) 2019
-  * IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2019
+  - IEEE Wireless Communications and Networking Conference (WCNC) 2020
+  - IEEE Wireless Communications and Networking Conference (WCNC) 2019
+  - IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2019
 
 ---
+
 ## Tutorials
 
-* Tutorial on "Wired LAN in ns-3" at 2019 KICS ns-3 lecture, Feb. 2019.
-* Tutorial on "Low-Level Tracing and TCP/UDP/IP in ns-3" at 2019 KICS ns-3 lecture, Feb. 2019.
-* Tutorial on "Low-Level Tracing and TCP/UDP/IP in ns-3" at 2018 KICS ns-3 lecture, Feb. 2018.
+- Tutorial on "Wired LAN in ns-3" at 2019 KICS ns-3 lecture, Feb. 2019.
+- Tutorial on "Low-Level Tracing and TCP/UDP/IP in ns-3" at 2019 KICS ns-3 lecture, Feb. 2019.
+- Tutorial on "Low-Level Tracing and TCP/UDP/IP in ns-3" at 2018 KICS ns-3 lecture, Feb. 2018.
 
 <!--
 > This is a blockquote following a header.
