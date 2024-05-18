@@ -24,7 +24,7 @@ E-mail:
 - **Advisor**
   - **[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
   - **[Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)**, Advisor before moving to NETLAB\
-   (Currently Head of Advanced R&D Team, Samsung Networks)
+   (Currently Executive Vice President, Samsung Networks)
 
 <!-- (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is
 an Executive Vice President and Head of the Advanced Communications Research Center at Samsung Research, Samsung Electronics)
