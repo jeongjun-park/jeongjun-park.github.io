@@ -4,16 +4,11 @@
 
 ## Profile
 
-### Ph.D., Postdoctoral Researcher
+### NPU Performance Engineer
 
-Ubiquitous Network Laboratory [(NETLAB)](http://netlab.snu.ac.kr)\
-Electrical and Computer Engineering [(ECE)](https://ece.snu.ac.kr)\
-Seoul National University [(SNU)](https://snu.ac.kr)\
-E-mail:
-**sunwookh /at/ snu.ac.kr**
-
-- **Advisor: [Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
-<!-- Moved from MWNL to NETLAB of SNU as of Sept. 2019 [[Previous Lab Page]](https://sites.google.com/a/mwnl.snu.ac.kr/www/)\ -->
+Digital IP/Circuit Chip Design \
+Advanced AP Development Team (S.LSI)\
+Samsung Electronics
 
 ---
 
@@ -40,19 +35,17 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 - **3D object detection for autonomous vehicles**
 - **Protocol design for V2X communications and 5G New Radio** -->
 
+#### - Neural Processing Unit (NPU) for mobile devices
+
 #### - Distributed, semi-supervised learning
 
 #### - 3D vision for autonomous vehicles
 
-#### - Protocol design for V2X and 5G New Radio
 
 ---
 
 ## Current Collaborators
 
-- **[Hyung-Sin Kim](https://aiot.snu.ac.kr)** (Assistant Professor, SNU)
-- **[Seongwon Kim](https://www.linkedin.com/in/s1kim/)** (Researcher, SKT)
-- **[Kanghyun Lee](https://lee-kanghyun.github.io)** (Ph.D. Candidate, SNU)
 - **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D. Candidate, SNU)
 - **[Jin Mo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0)** (Ph.D. Candidate, SNU)
 - **[Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0)** (Ph.D. Candidate, SNU)
