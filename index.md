@@ -12,6 +12,19 @@ Samsung Electronics
 
 ---
 
+## Employment
+
+#### - Samsung Electronics, Korea
+
+- Advanced AP Development Team (S.LSI)
+- Sept. 2024 ~ Current
+
+#### - Seoul National University, Seoul, Korea
+- Postdoctoral Researcher (**Advisor - [Prof. Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty))**
+- Sept. 2023 ~ Aug. 2024
+
+---
+
 ## Education
 
 #### - Ph.D. in ECE from SNU in Aug. 2023
