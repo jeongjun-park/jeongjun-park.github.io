@@ -7,7 +7,7 @@
 ### NPU Performance Engineer
 
 Digital IP/Circuit Chip Design \
-Advanced AP Development Team (S.LSI)\
+SOC IP Development Team (S.LSI)\
 Samsung Electronics
 
 ---
@@ -16,7 +16,7 @@ Samsung Electronics
 
 #### - Samsung Electronics, Korea
 
-- Advanced AP Development Team (S.LSI)
+- SOC IP Development Team (S.LSI)
 - Sept. 2024 ~ Current
 
 #### - Seoul National University, Seoul, Korea
