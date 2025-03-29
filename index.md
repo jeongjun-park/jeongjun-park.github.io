@@ -1,4 +1,4 @@
-# [About Me](index) | [CV](Resume_SunwookHwang.pdf)
+# [About Me](index) | [CV](cv-jjpark.pdf)
 
 ---
 
