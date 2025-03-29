@@ -4,7 +4,7 @@
 
 ## Profile
 
-### NPU Performance Engineer
+### Communication Engineer
 
 Signal Processing/Optimization \
 CP Software Development Team (S.LSI)\
@@ -109,8 +109,6 @@ UWB Two-Way Ranging Based Feature Extraction for Human Activity Recognition\
 - 420.469, Design of Network Protocols with Experiments, Seoul National University, Fall 2019.
 - 420.469, Design of Network Protocols with Experiments, Seoul National University, Fall 2018.
 
----
-
 ### Tutorials
 
 - Tutorial on "High-Level Tracing and ns-3 applications" at 2021 KICS ns-3 lecture, Feb. 2021.
@@ -118,3 +116,5 @@ UWB Two-Way Ranging Based Feature Extraction for Human Activity Recognition\
 ### Specialized License
 
 - Engineer Information Processing, Human Resources Development Service of Korea, Date of Issue: Apr. 16, 2017.
+
+---
