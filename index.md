@@ -1,4 +1,4 @@
-# [About Me](index) | [CV](cv-jjpark.pdf)
+# [About Me](index) | <a href="assets/cv-jjpark.pdf" target="_blank">CV</a>
 
 ---
 
