@@ -6,8 +6,8 @@
 
 ### NPU Performance Engineer
 
-Digital IP/Circuit Chip Design \
-SOC IP Development Team (S.LSI)\
+Signal Processing/Optimization \
+CP Software Development Team (S.LSI)\
 Samsung Electronics
 
 ---
@@ -16,29 +16,28 @@ Samsung Electronics
 
 #### - Samsung Electronics, Korea
 
-- SOC IP Development Team (S.LSI)
-- Sept. 2024 ~ Current
+- CP S/W Development Team (S.LSI)
+- Mar. 2025 ~ Current
 
-#### - Seoul National University, Seoul, Korea
+<!-- #### - Seoul National University, Seoul, Korea
 - Postdoctoral Researcher (**Advisor - [Prof. Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty))**
-- Sept. 2023 ~ Aug. 2024
+- Sept. 2023 ~ Aug. 2024 -->
 
 ---
 
 ## Education
 
-#### - Ph.D. in ECE from SNU in Aug. 2023
+#### - Ph.D. in ECE from SNU in Feb. 2025
 
 - **Advisor**
   - **[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
-  - **[Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home)**, Advisor before moving to NETLAB\
-   (Currently Corporate EVP and Head of Advanced R&D Team, Samsung Networks)
 
-<!-- (Changed from [Sunghyun Choi](https://sites.google.com/view/sunghyun-chois-home) who is
-an Executive Vice President and Head of the Advanced Communications Research Center at Samsung Research, Samsung Electronics)
-* Ubiquitous Network Laboratory in Seoul National University (NETLAB) -->
+#### - M.S, in ECE from SNU in Aug. 2020
 
-#### - B.S. in EE from POSTECH in Feb. 2016
+- **Advisor**
+  - **[Saewoong Bahk](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/faculty)**
+
+#### - B.S. in ICE from HUFS in Feb. 2018
 
 ---
 
@@ -48,18 +47,22 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 - **3D object detection for autonomous vehicles**
 - **Protocol design for V2X communications and 5G New Radio** -->
 
-#### - Neural Processing Unit (NPU) for mobile devices
+#### - 5G/6G Communication
 
-#### - Distributed, semi-supervised learning
+#### - IR-UWB-based Human Activity Recognition
 
-#### - 3D vision for autonomous vehicles
+#### - Contention Mitigation for Wireless Sensor Networks (IEEE 802.15.4)
 
 
 ---
 
 ## Current Collaborators
 
-- **[Jeongjun Park](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jeongjun-park?authuser=0)** (Ph.D. Candidate, SNU)
+- **[Hyun Jong Yang](https://sites.google.com/view/aislsnu/people/professor)** (Professor, ECE, SNU)
+- **[Hyung-Sin Kim](https://gsds.snu.ac.kr/people-post/hyung-sin-kim/)** (Professor, GSDS, SNU)
+- **[Sunwook Hwang](https://sunwook-hwang.github.io)** (NPU Performance Engineer, S.LSI, Samsung Electronics)
+- **[Hongchan Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/hongchan-kim)** (Communication Engineer, CTO, LG Electronics)
+- **[Hyeonho Noh](https://sites.google.com/view/hhnoh)** (Postdoctoral Researcher, SNU)
 - **[Jin Mo Yang](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/jinmo-yang?authuser=0)** (Ph.D. Candidate, SNU)
 - **[Youngseok Kim](https://sites.google.com/netlab.snu.ac.kr/netlabhome/people/ph-d-students/youngseok-kim?authuser=0)** (Ph.D. Candidate, SNU)
 
@@ -67,33 +70,29 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 
 ## Journals & Conferences
 
-- **[IEEE/CVF ICCV 2023]**
-  UpCycling: Semi-supervised 3D Object Detection without Sharing Raw-level Unlabeled Scenes [[Project]](upcycling.html) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Hwang_UpCycling_Semi-supervised_3D_Object_Detection_without_Sharing_Raw-level_Unlabeled_Scenes_ICCV_2023_paper.html)\
-  **Sunwook Hwang**, Youngseok Kim, Seongwon Kim, Saewoong Bahk, and Hyung-Sin Kim <br>
+**[IEEE Access 2025]**
+  FrameBoost: Advanced Video Analytics with Inference Trigger Frame Selection via Tracking Error Estimation\
+  Jin Mo Yang, Sunwook Hwang, **Jeongjun Park**, and Saewoong Bahk
 
-- **[IEEE VTS APWCS 2022]**
-  A Study on the Feature-level Perception Sharing of Autonomous Vehicles\
-  Youngseok Kim, **Sunwook Hwang**, Saewoong Bahk <br>
+- **[IEEE JKICS 2025]**
+  Resizing Method for Applying RF-based Data to ViT in Human Activity Recognition\
+  **Jeongjun Park** and Saewoong Bahk
 
-- **[IEEE TVT 2020]** Beyond Vision: Hidden Car Detector with On-demand Relaying in Vehicular Communications [[Paper]](/static/pdfs/20_swhwang_TVT_BeyondVision.pdf)\
-  **Sunwook Hwang**, Seongwon Kim, Hoyoung Yoon, Byungjun Kim, Sunghyun Choi, and Saewoong Bahk
+- **[JCCI 2023]**
+UWB Two-Way Ranging Based Feature Extraction for Human Activity Recognition\
+**Jeongjun Park**, Jimin Park, and Saewoong Bahk
 
-- **[IEEE WCNC 2021]**
-  PRESS: Predictive Assessment of Resource Usage for C-V2V Mode 4 [[Paper]](/static/pdfs/21_jmyang_WCNC_PRESS.pdf)\
-  Jin Mo Yang, Hoyoung Yoon, **Sunwook Hwang**, and Saewoong Bahk
+- **[IEEE Access 2022]**
+  DualBlock: Adaptive Intra-Slot CSMA/CA for TSCH\
+  **Jeongjun Park**, Hongchan Kim, Hyung-sin Kim, and Saewoong Bahk
 
-- **[IEEE Access 2019]**
-  Nearest-First: Efficient Relaying Scheme in Heterogeneous V2V Communication Environments\
-  Byungjun Kim, Seongwon Kim, Hoyoung Yoon, **Sunwook Hwang**, M. Xavier Punithan, Byeong Rim Jo, and Sunghyun Choi
+- **[Conference of the Korea Institute of Military Science and Technology 2020]**
+  Random Back-Off in Timeslot for Mitigating Collisions of TSCH Networks\
+  **Jeongjun Park**, Hongchan Kim, and Saewoong Bahk
 
-- **[IEEE DySPAN 2017]**
-  COTA: Channel Occupancy Time Adaptation for LTE in Unlicensed Spectrum\
-  Kangjin Yoon, Taejun Park, Jihoon Kim, Weiping Sun, **Sunwook Hwang**, Ingab Kang, and Sunghyun Choi
-
-- **[IEEE ICTC 2017]**
-  Channel Switching Operation of LTE-LAA in Unlicensed Spectrum\
-  **Sunwook Hwang**, Kangjin Yoon, and Sunghyun Choi
-
+- **[KICS Winter 2019]**
+  RSSI-based Link Quality Estimation in Low-power and Lossy Networks\
+  **Jeongjun Park**, Hongchan Kim, and Saewoong Bahk
 <!--
 #### - Domestic Conference Papers
 1. 황선욱, 윤호영, 김병준, 최성현, "C-V2X에서 효과적인 CAM 중계 방식의 필요성에 대한 고찰," 제29회 통신정보합동학술대회 (JCCI 2019), 강릉, 2019년 5월 1-3일.
@@ -104,7 +103,7 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
 -->
 
 ---
-
+<!-- 
 ## Intellectual Properties
 
 ### - Patents
@@ -152,44 +151,38 @@ an Executive Vice President and Head of the Advanced Communications Research Cen
   Kangjin Yoon, **Sunwook Hwang**, Taejun Park, Jihoon Kim, and Sunghyun Choi\
   Korea Copyright Commission C-2017-000564, Jan. 2017.
 
----
+--- -->
 
 ## Research Projects
 
-- **Research on distributed learning and extended-vision based 3D object detection model for autonomous driving in 5G networks**\
-  National Research Foundation grant funded by the Korea government (MSIT), 2020-2023.
+- **Research on Ultra Reliable Aerial Network framework Supporting High-density Urban Air Mobility**\
+  Supported by the MSIT(Ministry of Science and ICT), Korea, under the ITRC(Information Technology Research Center) support program, supervised by the IITP(Institute of Information & Communications Technology Planning & Evaluation), Mar. 2023 – Feb. 2024.
 
-- **Research and Education for Integrated Technology of 5G/Autonomous Vehicles**\
-  5G Unmanned Vehicle Research Center funded by the Institute for Information & Communications Technology Promotion, 2018-2019.
+- **Augmented Cognition Meta-Communications Research Center**\
+  Supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government (MSIT) (No. 2022R1A5A1027646), Jun. 2022 – Feb. 2024.
 
-- **Dual Interface Synchronized Hybrid V2X Research by Simulation**\
-  LG Electronics, 2018.
-
-- **Spectrum Sensing and Future Radio Communication Platforms**\
-  Institute for Information & communications Technology Promotion grant funded by the Ministry of Science, ICT and Future Planning (MSIP) of the Republic of Korea, 2016–2017.
+- **Bio-Mimetic Robot Research center, supported by a grant to Bio-Mimetic Robot Research Center**\
+  Funded by Defense Acquisition Program Administration, and by Agency for Defense Development (UD130070ID), Feb. 2021 – Dec. 2021.
 
 ---
 
 ## Professional Activities
 
-### - Reviewer
+### - Teaching Assistant in SNU
 
-- International Journal
-  - IEEE Transactions on Vehicular Technology (TVT)
-  - IEEE Transactions on Cognitive Communications and Networking (TCCN)
-- International Conferences
-  - IEEE Wireless Communications and Networking Conference (WCNC) 2020
-  - IEEE Wireless Communications and Networking Conference (WCNC) 2019
-  - IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM) 2019
+- 430.525A 001, Data Network, Seoul National University, Spring 2021.
+- 420.469, Design of Network Protocols with Experiments, Seoul National University, Fall 2019.
+- 420.469, Design of Network Protocols with Experiments, Seoul National University, Fall 2018.
 
 ---
 
 ## Tutorials
 
-- Tutorial on "Wired LAN in ns-3" at 2019 KICS ns-3 lecture, Feb. 2019.
-- Tutorial on "Low-Level Tracing and TCP/UDP/IP in ns-3" at 2019 KICS ns-3 lecture, Feb. 2019.
-- Tutorial on "Low-Level Tracing and TCP/UDP/IP in ns-3" at 2018 KICS ns-3 lecture, Feb. 2018.
+- Tutorial on "High-Level Tracing and ns-3 applications" at 2021 KICS ns-3 lecture, Feb. 2021.
 
+## Specialized License
+
+- Engineer Information Processing, Human Resources Development Service of Korea, Date of Issue: Apr. 16, 2017.
 <!--
 > This is a blockquote following a header.
 >
