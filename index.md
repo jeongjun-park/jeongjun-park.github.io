@@ -48,7 +48,7 @@ Samsung Electronics
 
 ---
 
-## Current Collaborators
+## Collaborators
 
 - **[Hyun Jong Yang](https://sites.google.com/view/aislsnu/people/professor)** (Professor, ECE, SNU)
 - **[Hyung-Sin Kim](https://gsds.snu.ac.kr/people-post/hyung-sin-kim/)** (Professor, GSDS, SNU)
